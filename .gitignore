@@ -1,0 +1,4 @@
+*~
+*.so
+*.so.dSYM/
+test/assets/
